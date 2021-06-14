@@ -36,9 +36,3 @@ if __name__ == "__main__":
     out_template = "Wrote data for {} contigs, {}Mb of {}Mb in contigs > 1Mb\n"
     sys.stderr.write(out_template.format(n,round(large/1e6,2),round(total/1e6,2)))
     sys.exit(0)
-            
-    
-        
-
-
-
