@@ -1,6 +1,11 @@
 # summarize_contigs
 
-These Python programs characterize sequences in a fasta file, including telomere information.
+These Python programs characterize sequences in a fasta file, including telomere information.  
+
+
+ACKNOWLEDGEMENT
+
+This code was written by [David Winter](https://github.com/dwinter). It is posted here to allow for automated git cloning.
 
 
 INSTALLATION
